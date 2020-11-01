@@ -5,7 +5,7 @@ Yang perlu kita lakukan adalah menambahkan C:\ffmpeg\bin ke system path kita, da
 Buka file explorer dan klik kanan pada [This Pc] kemudian pilih properties
 
 Lalu pilih advanced system settings
-<img src="http://gregzaal.com/ss/System_2014-05-30_19-26-45.png" width="128" height="128"/>
+<img src="http://gregzaal.com/ss/System_2014-05-30_19-26-45.png"/>
 
 Open up the Environment Variables:
 
