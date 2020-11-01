@@ -7,14 +7,13 @@ Buka file explorer dan klik kanan pada [This Pc] kemudian pilih properties
 Lalu pilih advanced system settings
 <img src="http://gregzaal.com/ss/System_2014-05-30_19-26-45.png"/>
 
-Open up the Environment Variables:
+Lalu klik pada Environment Variables:
+<img src="http://gregzaal.com/ss/inst2.png"/>
+
+dan kemudian edit pada Path variable:
+<img src="http://gregzaal.com/ss/inst3.png"/>
 
 
-And then edit the Path variable:
+Path hanyalah daftar folder yang berisi perintah yang Anda izinkan untuk digunakan tanpa mengetikkan path lengkap dari file exe.
 
-
-
-The Path is just a list of folders that contain commands you’re allowed to use without typing in the full path of the exe files.
-
-So, go ahead and add C:\ffmpeg\bin to the end of the line, making sure that there’s a semi-colon (;) after the previous folder:
-
+Jadi, lanjutkan dan tambahkan C:\ffmpeg\bin ke akhir baris.
